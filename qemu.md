@@ -1,0 +1,1 @@
+qemu-system-arm -M vexpress-a9 -kernel arch/arm/boot/zImage -dtb arch/arm/boot/dts/arm/vexpress-v2p-ca9.dtb -append "console=ttyAMA0,115200" –nographic![image](https://github.com/Bharathgopal/Simulators_Demo/assets/13534866/85da503c-8256-444d-88c4-d1d227da2bfa)
