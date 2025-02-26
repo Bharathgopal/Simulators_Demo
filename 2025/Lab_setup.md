@@ -1,0 +1,1 @@
+sudo apt-get install -y make flex bison libncurses5-dev qemu-system-arm gcc-arm-linux-gnueabi libssl-dev libgnutls28-dev bzip2 net-tools tftpd
